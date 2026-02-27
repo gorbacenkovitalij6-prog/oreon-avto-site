@@ -587,6 +587,8 @@ export default function AboutPage() {
               <h3 className="font-bold mb-2 text-white/60 text-xs">Электронная почта</h3>
               <a href="mailto:ooo.oreongroups@mail.ru" className="text-xs hover:text-yellow-300 transition-colors">
                 ooo.oreongroups@mail.ru
+              </a>
+            </div>
 
             <div>
               <h3 className="font-bold mb-2 text-white/60 text-xs">Реквизиты</h3>

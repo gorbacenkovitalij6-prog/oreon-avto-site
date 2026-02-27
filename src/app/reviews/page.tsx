@@ -458,11 +458,8 @@ export default function ReviewsPage() {
 
             <div>
               <h3 className="font-bold mb-2 text-white/60 text-xs">Электронная почта</h3>
-<<<<<<< HEAD
               <a href="mailto:ooo.oreongroups@mail.ru" className="text-xs hover:text-blue-400 transition-colors">
                 ooo.oreongroups@mail.ru
-=======
->>>>>>> dcc1605 (- Заменена почта во всех файлах)
               </a>
             </div>
 
