@@ -137,11 +137,11 @@ export default function Home() {
               <Send className="w-5 h-5 text-white" />
             </a>
             <a
-              href="tel:+78172263435"
+              href="tel:+74951780340"
               className="flex items-center gap-2 bg-white text-[#BF360C] hover:bg-gray-100 px-4 py-2 rounded-full font-medium shadow-sm transition-colors"
             >
               <MessageCircle className="w-4 h-4" />
-              <span className="text-sm font-semibold">+7 (817) 226-34-35</span>
+              <span className="text-sm font-semibold">+7 (495) 178-03-40</span>
             </a>
           </div>
         </div>
@@ -759,11 +759,11 @@ export default function Home() {
                 <Send className="w-6 h-6 text-white" />
               </a>
               <a
-                href="tel:+78172263435"
+                href="tel:+74951780340"
                 className="flex items-center gap-2 bg-white text-[#BF360C] hover:bg-gray-100 px-4 py-2 rounded-full font-medium shadow-sm transition-colors"
               >
                 <MessageCircle className="w-4 h-4" />
-                <span className="text-sm font-semibold">+7 (817) 226-34-35</span>
+                <span className="text-sm font-semibold">+7 (495) 178-03-40</span>
               </a>
             </div>
           </div>
@@ -781,11 +781,11 @@ export default function Home() {
             <div>
               <h3 className="font-bold mb-3 text-white/60">Телефон</h3>
               <a
-                href="tel:+78172263435"
+                href="tel:+74951780340"
                 className="text-sm hover:text-blue-400 transition-colors block"
                 title="Позвонить нам"
               >
-                +7 (817) 226-34-35
+                +7 (495) 178-03-40
               </a>
 
               <h3 className="font-bold mt-4 mb-3 text-white/60">Электронная почта</h3>
