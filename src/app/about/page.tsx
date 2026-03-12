@@ -106,11 +106,19 @@ export default function AboutPage() {
               <Send className="w-5 h-5 text-white" />
             </a>
             <a
+<<<<<<< HEAD
               href="tel:+78172263435"
               className="flex items-center gap-2 bg-white text-[#BF360C] hover:bg-gray-100 px-4 py-2 rounded-full font-medium shadow-sm transition-colors"
             >
               <MessageCircle className="w-4 h-4" />
               <span className="text-sm font-semibold">+7 (817) 226-34-35</span>
+=======
+              href="tel:+74951780340"
+              className="flex items-center gap-2 bg-white text-[#BF360C] hover:bg-gray-100 px-4 py-2 rounded-full font-medium shadow-sm transition-colors"
+            >
+              <MessageCircle className="w-4 h-4" />
+              <span className="text-sm font-semibold">+7 (495) 178-03-40</span>
+>>>>>>> f1c257cdc62e02e9685ac438c9d421931f3697d3
             </a>
           </div>
         </div>
@@ -557,11 +565,19 @@ export default function AboutPage() {
                 <Send className="w-5 h-5 text-white" />
               </a>
               <a
+<<<<<<< HEAD
                 href="tel:+78172263435"
                 className="flex items-center gap-2 bg-white text-[#BF360C] hover:bg-gray-100 px-4 py-2 rounded-full font-medium shadow-sm transition-colors"
               >
                 <MessageCircle className="w-4 h-4" />
                 <span className="text-sm font-semibold">+7 (817) 226-34-35</span>
+=======
+                href="tel:+74951780340"
+                className="flex items-center gap-2 bg-white text-[#BF360C] hover:bg-gray-100 px-4 py-2 rounded-full font-medium shadow-sm transition-colors"
+              >
+                <MessageCircle className="w-4 h-4" />
+                <span className="text-sm font-semibold">+7 (495) 178-03-40</span>
+>>>>>>> f1c257cdc62e02e9685ac438c9d421931f3697d3
               </a>
             </div>
           </div>
